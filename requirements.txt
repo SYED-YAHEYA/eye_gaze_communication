@@ -1,0 +1,7 @@
+opencv-python==4.10.0.84
+dlib==19.24.6
+numpy==1.26.4
+pyttsx3==2.98
+translate==3.6.1
+twilio==9.3.3
+adafruit-circuitpython-max30102==2.1.5
